@@ -1,0 +1,43 @@
+*{
+    background-color: lightslategray;
+}
+.houses{
+    height: 300px;
+    width: 100%;
+    padding: 20px;
+}
+img{
+    width: 250px;
+    height: 250px; 
+    display: inline-block;
+    margin: 20px;
+}
+#Stark{
+    
+    display: inline-block;
+    margin: 20px;
+    margin-left: 60px;
+    margin-right: -10px;
+}
+#Targaryen{
+    width: 250px;
+    height: 250px;
+    display: inline-block;
+    margin: 20px;
+}
+#Lannister{
+    width: 250px;
+    height: 250px;
+    display: inline-block;
+    margin: 20px;
+}
+#Baratheon{
+    width: 250px;
+    height: 250px;
+    display: inline-block;
+    margin: 20px;
+}
+#info{
+    border: 5px solid black;
+    height: 400px;
+}
